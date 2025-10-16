@@ -20,4 +20,4 @@ I help teams bridge the technical to the business. Whether it's via demos, story
 Completing a GitHub portfolio sprint bootcamp (APIs, SDKs, automation) and documenting what I learn in each repo.
 
 ## 🤝 Let's Connect
-[LinkedIn]([https://www.linkedin.com/in/<your-link>/](https://www.linkedin.com/in/kanelsuos/)) 
+[LinkedIn](https://www.linkedin.com/in/kanelsuos/) 
